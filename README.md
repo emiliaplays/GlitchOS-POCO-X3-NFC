@@ -10,9 +10,9 @@ GlitchOS gives the phone a custom launcher with app search, favorites, a media p
 | --- | --- |
 | ![GlitchOS home screen with favorites and the dark glass interface](docs/images/launcher-home.png) | ![GlitchOS app library with search and installed apps](docs/images/launcher-apps.png) |
 
-| Media controls | Android Recents |
+| Media tab | Android Recents |
 | --- | --- |
-| ![Now Playing screen with playback controls](docs/images/launcher-media.png) | ![Android recent apps screen alongside GlitchOS](docs/images/launcher-recents.png) |
+| ![GlitchOS media tab ready for a media session](docs/images/launcher-media.png) | ![Android recent apps screen alongside GlitchOS](docs/images/launcher-recents.png) |
 
 Screenshots were captured on the POCO X3 NFC during device testing. Android's Recents screen remains provided by MIUI Quickstep.
 
