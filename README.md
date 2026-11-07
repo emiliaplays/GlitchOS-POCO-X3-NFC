@@ -4,7 +4,23 @@ A Glitch UI home screen and Xiaomi theme setup for the POCO X3 NFC (`surya`). Bu
 
 GlitchOS gives the phone a custom launcher with app search, favorites, a media player panel, and a dark navy and mint interface. The companion Xiaomi theme includes system styling and a custom boot animation with a Glitch UI title and embedded sound.
 
-![GlitchOS mobile launcher](poco/output/qa/glitch-ui-final-home.png)
+## GlitchOS in action
+
+| Home | App library |
+| --- | --- |
+| ![GlitchOS home screen with favorites and the dark glass interface](docs/images/launcher-home.png) | ![GlitchOS app library with search and installed apps](docs/images/launcher-apps.png) |
+
+| Media controls | Android Recents |
+| --- | --- |
+| ![Now Playing screen with playback controls](docs/images/launcher-media.png) | ![Android recent apps screen alongside GlitchOS](docs/images/launcher-recents.png) |
+
+Screenshots were captured on the POCO X3 NFC during device testing. Android's Recents screen remains provided by MIUI Quickstep.
+
+## What GlitchOS does
+
+GlitchOS replaces the default Home screen with a fast, touch-first launcher. Search installed apps by name or package, pin favorites, open Android settings, and control compatible media sessions from one screen. Its dark navy surfaces, mint highlights, and restrained glitch styling carry through the companion Xiaomi theme.
+
+The project bundles the phone theme and system theme separately. The system theme includes a custom `GLITCH UI` boot animation with a short glitch sequence and embedded sound. Theme support varies across MIUI builds, so the documentation records the tested import route and limitations.
 
 ## Project contents
 
